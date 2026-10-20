@@ -2,10 +2,10 @@
 
 Brain & Mind Academy's interactive pre-calculus and calculus sheets. Every page is a single self-contained HTML file (maths rendered with KaTeX, built in, works offline).
 
-Home: https://brainmind2047.github.io/sopaan-calculus/
+Home: https://brainmind2047.github.io/Sopaan-calculus/
 
 Each program has its own page listing its sheets in teaching order:
-`https://brainmind2047.github.io/sopaan-calculus/<program>/`
+`https://brainmind2047.github.io/Sopaan-calculus/<program>/`
 
 | Program | Folder |
 |---|---|

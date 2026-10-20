@@ -1,47 +1,47 @@
 Folder,File,Title,Link
-home,index.html,Sopaan Calculus Programme (home),https://brainmind2047.github.io/sopaan-calculus/
-sheets,sheets/index.html,All 23 sheets,https://brainmind2047.github.io/sopaan-calculus/sheets/
-sheets,sheets/P01.html,P01 Functions & Graphs,https://brainmind2047.github.io/sopaan-calculus/sheets/P01.html
-sheets,sheets/P02.html,"P02 Transformations, Modulus & Modelling",https://brainmind2047.github.io/sopaan-calculus/sheets/P02.html
-sheets,sheets/P03.html,P03 Polynomial & Rational Functions,https://brainmind2047.github.io/sopaan-calculus/sheets/P03.html
-sheets,sheets/P04.html,P04 Exponential & Logarithmic Functions,https://brainmind2047.github.io/sopaan-calculus/sheets/P04.html
-sheets,sheets/P05.html,P05 Trigonometric Functions & Graphs,https://brainmind2047.github.io/sopaan-calculus/sheets/P05.html
-sheets,sheets/P06.html,P06 Trigonometric Identities & Equations,https://brainmind2047.github.io/sopaan-calculus/sheets/P06.html
-sheets,sheets/P07.html,"P07 Sequences, Series & Binomial Theorem",https://brainmind2047.github.io/sopaan-calculus/sheets/P07.html
-sheets,sheets/P08.html,"P08 Parametric, Polar, Vectors & Complex Numbers",https://brainmind2047.github.io/sopaan-calculus/sheets/P08.html
-sheets,sheets/C01.html,C01 Limits & Continuity,https://brainmind2047.github.io/sopaan-calculus/sheets/C01.html
-sheets,sheets/C02.html,C02 The Derivative: Definition & Basic Rules,https://brainmind2047.github.io/sopaan-calculus/sheets/C02.html
-sheets,sheets/C03.html,"C03 Chain, Implicit & Inverse Differentiation",https://brainmind2047.github.io/sopaan-calculus/sheets/C03.html
-sheets,sheets/C04.html,C04 Derivatives in Context,https://brainmind2047.github.io/sopaan-calculus/sheets/C04.html
-sheets,sheets/C05.html,C05 Analysing Functions with Derivatives,https://brainmind2047.github.io/sopaan-calculus/sheets/C05.html
-sheets,sheets/C06.html,C06 Riemann Sums & the Fundamental Theorem,https://brainmind2047.github.io/sopaan-calculus/sheets/C06.html
-sheets,sheets/C07.html,C07 Integration Techniques I,https://brainmind2047.github.io/sopaan-calculus/sheets/C07.html
-sheets,sheets/C08.html,C08 Integration Techniques II,https://brainmind2047.github.io/sopaan-calculus/sheets/C08.html
-sheets,sheets/C09.html,C09 Differential Equations,https://brainmind2047.github.io/sopaan-calculus/sheets/C09.html
-sheets,sheets/C10.html,C10 Applications of Integration,https://brainmind2047.github.io/sopaan-calculus/sheets/C10.html
-sheets,sheets/C11.html,"C11 Parametric, Polar & Vector Calculus",https://brainmind2047.github.io/sopaan-calculus/sheets/C11.html
-sheets,sheets/C12.html,C12 Infinite Sequences & Series,https://brainmind2047.github.io/sopaan-calculus/sheets/C12.html
-sheets,sheets/C13.html,C13 Numerical Methods,https://brainmind2047.github.io/sopaan-calculus/sheets/C13.html
-sheets,sheets/E01.html,E01 Multivariable & Vector Calculus,https://brainmind2047.github.io/sopaan-calculus/sheets/E01.html
-sheets,sheets/E02.html,E02 Further Differential Equations & Hyperbolic Functions,https://brainmind2047.github.io/sopaan-calculus/sheets/E02.html
-programs,ap-precalculus/index.html,AP Precalculus,https://brainmind2047.github.io/sopaan-calculus/ap-precalculus/
-programs,precalculus/index.html,Pre-calculus (Honors / College),https://brainmind2047.github.io/sopaan-calculus/precalculus/
-programs,ap-calculus-ab/index.html,AP Calculus AB,https://brainmind2047.github.io/sopaan-calculus/ap-calculus-ab/
-programs,ap-calculus-bc/index.html,AP Calculus BC,https://brainmind2047.github.io/sopaan-calculus/ap-calculus-bc/
-programs,ib-aa-sl/index.html,IB Maths AA SL,https://brainmind2047.github.io/sopaan-calculus/ib-aa-sl/
-programs,ib-aa-hl/index.html,IB Maths AA HL,https://brainmind2047.github.io/sopaan-calculus/ib-aa-hl/
-programs,ib-ai-sl/index.html,IB Maths AI SL,https://brainmind2047.github.io/sopaan-calculus/ib-ai-sl/
-programs,ib-ai-hl/index.html,IB Maths AI HL,https://brainmind2047.github.io/sopaan-calculus/ib-ai-hl/
-programs,cambridge-a-level-9709/index.html,Cambridge AS & A Level 9709,https://brainmind2047.github.io/sopaan-calculus/cambridge-a-level-9709/
-programs,edexcel-ial/index.html,Edexcel International A Level,https://brainmind2047.github.io/sopaan-calculus/edexcel-ial/
-programs,edexcel-a-level-9ma0/index.html,Edexcel A Level 9MA0,https://brainmind2047.github.io/sopaan-calculus/edexcel-a-level-9ma0/
-programs,igcse-0606/index.html,Cambridge IGCSE Additional Maths 0606,https://brainmind2047.github.io/sopaan-calculus/igcse-0606/
-programs,igcse-0580/index.html,Cambridge IGCSE Maths 0580 (Extended),https://brainmind2047.github.io/sopaan-calculus/igcse-0580/
-programs,igcse-0607/index.html,Cambridge IGCSE International Maths 0607,https://brainmind2047.github.io/sopaan-calculus/igcse-0607/
-programs,igcse-4pm1/index.html,Edexcel IGCSE Further Pure Maths 4PM1,https://brainmind2047.github.io/sopaan-calculus/igcse-4pm1/
-programs,igcse-4ma1/index.html,Edexcel IGCSE Maths 4MA1 (Higher),https://brainmind2047.github.io/sopaan-calculus/igcse-4ma1/
-programs,cbse-class-11/index.html,CBSE Class XI,https://brainmind2047.github.io/sopaan-calculus/cbse-class-11/
-programs,cbse-class-12/index.html,CBSE Class XII,https://brainmind2047.github.io/sopaan-calculus/cbse-class-12/
-programs,college-calculus-1/index.html,College Calculus I,https://brainmind2047.github.io/sopaan-calculus/college-calculus-1/
-programs,college-calculus-2/index.html,College Calculus II,https://brainmind2047.github.io/sopaan-calculus/college-calculus-2/
-programs,college-calculus-3/index.html,College Calculus III,https://brainmind2047.github.io/sopaan-calculus/college-calculus-3/
+home,index.html,Sopaan Calculus Programme (home),https://brainmind2047.github.io/Sopaan-calculus/
+sheets,sheets/index.html,All 23 sheets,https://brainmind2047.github.io/Sopaan-calculus/sheets/
+sheets,sheets/P01.html,P01 Functions & Graphs,https://brainmind2047.github.io/Sopaan-calculus/sheets/P01.html
+sheets,sheets/P02.html,"P02 Transformations, Modulus & Modelling",https://brainmind2047.github.io/Sopaan-calculus/sheets/P02.html
+sheets,sheets/P03.html,P03 Polynomial & Rational Functions,https://brainmind2047.github.io/Sopaan-calculus/sheets/P03.html
+sheets,sheets/P04.html,P04 Exponential & Logarithmic Functions,https://brainmind2047.github.io/Sopaan-calculus/sheets/P04.html
+sheets,sheets/P05.html,P05 Trigonometric Functions & Graphs,https://brainmind2047.github.io/Sopaan-calculus/sheets/P05.html
+sheets,sheets/P06.html,P06 Trigonometric Identities & Equations,https://brainmind2047.github.io/Sopaan-calculus/sheets/P06.html
+sheets,sheets/P07.html,"P07 Sequences, Series & Binomial Theorem",https://brainmind2047.github.io/Sopaan-calculus/sheets/P07.html
+sheets,sheets/P08.html,"P08 Parametric, Polar, Vectors & Complex Numbers",https://brainmind2047.github.io/Sopaan-calculus/sheets/P08.html
+sheets,sheets/C01.html,C01 Limits & Continuity,https://brainmind2047.github.io/Sopaan-calculus/sheets/C01.html
+sheets,sheets/C02.html,C02 The Derivative: Definition & Basic Rules,https://brainmind2047.github.io/Sopaan-calculus/sheets/C02.html
+sheets,sheets/C03.html,"C03 Chain, Implicit & Inverse Differentiation",https://brainmind2047.github.io/Sopaan-calculus/sheets/C03.html
+sheets,sheets/C04.html,C04 Derivatives in Context,https://brainmind2047.github.io/Sopaan-calculus/sheets/C04.html
+sheets,sheets/C05.html,C05 Analysing Functions with Derivatives,https://brainmind2047.github.io/Sopaan-calculus/sheets/C05.html
+sheets,sheets/C06.html,C06 Riemann Sums & the Fundamental Theorem,https://brainmind2047.github.io/Sopaan-calculus/sheets/C06.html
+sheets,sheets/C07.html,C07 Integration Techniques I,https://brainmind2047.github.io/Sopaan-calculus/sheets/C07.html
+sheets,sheets/C08.html,C08 Integration Techniques II,https://brainmind2047.github.io/Sopaan-calculus/sheets/C08.html
+sheets,sheets/C09.html,C09 Differential Equations,https://brainmind2047.github.io/Sopaan-calculus/sheets/C09.html
+sheets,sheets/C10.html,C10 Applications of Integration,https://brainmind2047.github.io/Sopaan-calculus/sheets/C10.html
+sheets,sheets/C11.html,"C11 Parametric, Polar & Vector Calculus",https://brainmind2047.github.io/Sopaan-calculus/sheets/C11.html
+sheets,sheets/C12.html,C12 Infinite Sequences & Series,https://brainmind2047.github.io/Sopaan-calculus/sheets/C12.html
+sheets,sheets/C13.html,C13 Numerical Methods,https://brainmind2047.github.io/Sopaan-calculus/sheets/C13.html
+sheets,sheets/E01.html,E01 Multivariable & Vector Calculus,https://brainmind2047.github.io/Sopaan-calculus/sheets/E01.html
+sheets,sheets/E02.html,E02 Further Differential Equations & Hyperbolic Functions,https://brainmind2047.github.io/Sopaan-calculus/sheets/E02.html
+programs,ap-precalculus/index.html,AP Precalculus,https://brainmind2047.github.io/Sopaan-calculus/ap-precalculus/
+programs,precalculus/index.html,Pre-calculus (Honors / College),https://brainmind2047.github.io/Sopaan-calculus/precalculus/
+programs,ap-calculus-ab/index.html,AP Calculus AB,https://brainmind2047.github.io/Sopaan-calculus/ap-calculus-ab/
+programs,ap-calculus-bc/index.html,AP Calculus BC,https://brainmind2047.github.io/Sopaan-calculus/ap-calculus-bc/
+programs,ib-aa-sl/index.html,IB Maths AA SL,https://brainmind2047.github.io/Sopaan-calculus/ib-aa-sl/
+programs,ib-aa-hl/index.html,IB Maths AA HL,https://brainmind2047.github.io/Sopaan-calculus/ib-aa-hl/
+programs,ib-ai-sl/index.html,IB Maths AI SL,https://brainmind2047.github.io/Sopaan-calculus/ib-ai-sl/
+programs,ib-ai-hl/index.html,IB Maths AI HL,https://brainmind2047.github.io/Sopaan-calculus/ib-ai-hl/
+programs,cambridge-a-level-9709/index.html,Cambridge AS & A Level 9709,https://brainmind2047.github.io/Sopaan-calculus/cambridge-a-level-9709/
+programs,edexcel-ial/index.html,Edexcel International A Level,https://brainmind2047.github.io/Sopaan-calculus/edexcel-ial/
+programs,edexcel-a-level-9ma0/index.html,Edexcel A Level 9MA0,https://brainmind2047.github.io/Sopaan-calculus/edexcel-a-level-9ma0/
+programs,igcse-0606/index.html,Cambridge IGCSE Additional Maths 0606,https://brainmind2047.github.io/Sopaan-calculus/igcse-0606/
+programs,igcse-0580/index.html,Cambridge IGCSE Maths 0580 (Extended),https://brainmind2047.github.io/Sopaan-calculus/igcse-0580/
+programs,igcse-0607/index.html,Cambridge IGCSE International Maths 0607,https://brainmind2047.github.io/Sopaan-calculus/igcse-0607/
+programs,igcse-4pm1/index.html,Edexcel IGCSE Further Pure Maths 4PM1,https://brainmind2047.github.io/Sopaan-calculus/igcse-4pm1/
+programs,igcse-4ma1/index.html,Edexcel IGCSE Maths 4MA1 (Higher),https://brainmind2047.github.io/Sopaan-calculus/igcse-4ma1/
+programs,cbse-class-11/index.html,CBSE Class XI,https://brainmind2047.github.io/Sopaan-calculus/cbse-class-11/
+programs,cbse-class-12/index.html,CBSE Class XII,https://brainmind2047.github.io/Sopaan-calculus/cbse-class-12/
+programs,college-calculus-1/index.html,College Calculus I,https://brainmind2047.github.io/Sopaan-calculus/college-calculus-1/
+programs,college-calculus-2/index.html,College Calculus II,https://brainmind2047.github.io/Sopaan-calculus/college-calculus-2/
+programs,college-calculus-3/index.html,College Calculus III,https://brainmind2047.github.io/Sopaan-calculus/college-calculus-3/
