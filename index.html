@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sopaan Calculus Programme</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+:root{--navy:#16264A;--navy2:#1F3B6B;--gold:#C79A3E;--goldsoft:#F3E7C9;--paper:#FBF9F4;--paper2:#F1EAD8;--card:#fff;--ink:#211E1A;--soft:#655D4C;--rule:#E4DCC8;--acc:#1F3B6B;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--navy:#0E1830;--navy2:#16264A;--gold:#E0B75B;--goldsoft:#3A2F16;--paper:#141210;--paper2:#1C1914;--card:#1C1914;--ink:#EDE7DA;--soft:#B2A996;--rule:#3A342A;--acc:#E0B75B;color-scheme:dark}}
+:root[data-theme="dark"]{--navy:#0E1830;--navy2:#16264A;--gold:#E0B75B;--goldsoft:#3A2F16;--paper:#141210;--paper2:#1C1914;--card:#1C1914;--ink:#EDE7DA;--soft:#B2A996;--rule:#3A342A;--acc:#E0B75B;color-scheme:dark}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:'Source Sans 3',system-ui,sans-serif;font-size:17px;line-height:1.5}
+header{background:linear-gradient(155deg,var(--navy),var(--navy2));color:#F4EFDF;padding:26px 0 28px}
+.w{max-width:960px;margin:0 auto;padding:0 16px}
+.b{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:#E0B75B;font-weight:700}
+.b a{color:inherit;text-decoration:none}.b a:hover{text-decoration:underline}
+h1{font-family:Fraunces,Georgia,serif;font-size:clamp(26px,5vw,38px);margin:6px 0 4px;text-wrap:balance}
+header p{margin:0;color:#D9DFEE;max-width:720px}
+.stats{display:flex;gap:22px;flex-wrap:wrap;margin-top:14px;font-size:13px;color:#CFD7EA}.stats b{color:#fff;font-size:21px;display:block;font-family:Fraunces,serif}
+main{padding:22px 0 48px}
+h2{font-family:Fraunces,Georgia,serif;font-size:21px;margin:28px 0 10px;color:var(--acc)}
+h2:first-child{margin-top:4px}
+.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.c{display:flex;flex-direction:column;gap:3px;background:var(--card);border:1px solid var(--rule);border-radius:14px;padding:16px 18px;text-decoration:none;color:var(--ink)}
+.c:hover,.c:focus-visible{border-color:var(--gold)}
+.c b{font-family:Fraunces,Georgia,serif;font-size:18px;color:var(--acc);line-height:1.25}
+.c span{color:var(--soft);font-size:15px}
+.n{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold)}
+.list{display:flex;flex-direction:column;gap:10px;counter-reset:s}
+.row{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:start;background:var(--card);border:1px solid var(--rule);border-radius:14px;padding:14px 16px}
+.num{counter-increment:s;width:36px;height:36px;border-radius:50%;background:var(--goldsoft);color:var(--acc);display:grid;place-items:center;font:700 15px Fraunces,serif}
+.num::before{content:counter(s)}
+.row .t{font-family:Fraunces,Georgia,serif;font-size:18px;color:var(--acc);text-decoration:none;line-height:1.25}
+.row .t:hover{text-decoration:underline}
+.meta{font-size:13px;color:var(--soft);margin:2px 0 6px}
+.chips{display:flex;flex-wrap:wrap;gap:5px}
+.chip{font-size:12.5px;background:var(--paper2);border:1px solid var(--rule);border-radius:99px;padding:2px 9px;color:var(--ink)}
+.go{align-self:center;background:var(--acc);color:var(--paper);text-decoration:none;font-weight:700;font-size:14px;border-radius:99px;padding:7px 14px;white-space:nowrap}
+.go:hover{filter:brightness(1.1)}
+.lite .row{background:transparent}.lite .num{background:var(--paper2)}
+.note{font-size:14.5px;color:var(--soft);max-width:760px}
+.gap{background:var(--card);border:1px dashed var(--rule);border-radius:14px;padding:12px 16px}
+footer{color:var(--soft);font-size:13px;padding:0 0 30px;margin-top:8px}footer a{color:var(--acc)}
+@media (max-width:560px){.row{grid-template-columns:36px 1fr}.go{grid-column:2;justify-self:start}.num{width:30px;height:30px;font-size:13px}}
+</style></head><body>
+<header><div class="w"><div class="b">Brain &amp; Mind Academy</div><h1>Sopaan Calculus Programme</h1><p>Interactive learning and practice sheets for pre-calculus and calculus. Choose your program to get its sheets in teaching order.</p><div class="stats"><div><b>23</b>sheets</div><div><b>2,541</b>questions</div><div><b>21</b>programs</div></div></div></header>
+<main class="w"><h2>Pre-calculus</h2><div class="g"><a class="c" href="ap-precalculus/"><span class="n">9 sheets</span><b>AP Precalculus</b><span>College Board AP Precalculus, Units 1–4.</span></a><a class="c" href="precalculus/"><span class="n">12 sheets</span><b>Pre-calculus (Honors / College)</b><span>Honors or college precalculus, Larson-style course.</span></a></div><h2>AP Calculus</h2><div class="g"><a class="c" href="ap-calculus-ab/"><span class="n">10 sheets</span><b>AP Calculus AB</b><span>College Board AP Calculus AB, Units 1–8.</span></a><a class="c" href="ap-calculus-bc/"><span class="n">13 sheets</span><b>AP Calculus BC</b><span>College Board AP Calculus BC, Units 1–10.</span></a></div><h2>IB Diploma (DP)</h2><div class="g"><a class="c" href="ib-aa-sl/"><span class="n">13 sheets</span><b>IB Maths AA SL</b><span>Analysis &amp; Approaches, Standard Level.</span></a><a class="c" href="ib-aa-hl/"><span class="n">20 sheets</span><b>IB Maths AA HL</b><span>Analysis &amp; Approaches, Higher Level.</span></a><a class="c" href="ib-ai-sl/"><span class="n">12 sheets</span><b>IB Maths AI SL</b><span>Applications &amp; Interpretation, Standard Level.</span></a><a class="c" href="ib-ai-hl/"><span class="n">17 sheets</span><b>IB Maths AI HL</b><span>Applications &amp; Interpretation, Higher Level.</span></a></div><h2>A Level</h2><div class="g"><a class="c" href="cambridge-a-level-9709/"><span class="n">18 sheets</span><b>Cambridge AS &amp; A Level 9709</b><span>Pure Mathematics 1, 2 and 3.</span></a><a class="c" href="edexcel-ial/"><span class="n">20 sheets</span><b>Edexcel International A Level</b><span>Pure Mathematics P1–P4 (and FP1).</span></a><a class="c" href="edexcel-a-level-9ma0/"><span class="n">19 sheets</span><b>Edexcel A Level 9MA0</b><span>Pure Mathematics, UK A Level.</span></a></div><h2>IGCSE</h2><div class="g"><a class="c" href="igcse-0606/"><span class="n">13 sheets</span><b>Cambridge IGCSE Additional Maths 0606</b><span>Calculus, functions, logs and trig.</span></a><a class="c" href="igcse-0580/"><span class="n">6 sheets</span><b>Cambridge IGCSE Maths 0580 (Extended)</b><span>Functions and introductory differentiation.</span></a><a class="c" href="igcse-0607/"><span class="n">3 sheets</span><b>Cambridge IGCSE International Maths 0607</b><span>Functions, graphs and modelling.</span></a><a class="c" href="igcse-4pm1/"><span class="n">11 sheets</span><b>Edexcel IGCSE Further Pure Maths 4PM1</b><span>Calculus, series, logs and trig.</span></a><a class="c" href="igcse-4ma1/"><span class="n">4 sheets</span><b>Edexcel IGCSE Maths 4MA1 (Higher)</b><span>Functions and introductory calculus.</span></a></div><h2>CBSE</h2><div class="g"><a class="c" href="cbse-class-11/"><span class="n">7 sheets</span><b>CBSE Class XI</b><span>Functions, trig, sequences, limits and derivatives.</span></a><a class="c" href="cbse-class-12/"><span class="n">11 sheets</span><b>CBSE Class XII</b><span>Continuity, derivatives, integrals, DEs, vectors.</span></a></div><h2>College / University</h2><div class="g"><a class="c" href="college-calculus-1/"><span class="n">13 sheets</span><b>College Calculus I</b><span>Limits, derivatives and the integral.</span></a><a class="c" href="college-calculus-2/"><span class="n">10 sheets</span><b>College Calculus II</b><span>Integration techniques, series, parametric and polar.</span></a><a class="c" href="college-calculus-3/"><span class="n">5 sheets</span><b>College Calculus III</b><span>Multivariable and vector calculus.</span></a></div><h2>Everything</h2><div class="g"><a class="c" href="sheets/"><span class="n">23 sheets</span><b>All sheets</b><span>The full programme: 8 pre-calculus, 13 calculus and 2 extension sheets.</span></a></div></main>
+<footer class="w">Sopaan Calculus Programme · Brain &amp; Mind Academy. AP is a trademark of the College Board; IB, Cambridge, Pearson Edexcel and CBSE are not affiliated with Brain &amp; Mind Academy.</footer>
+</body></html>
